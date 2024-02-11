@@ -14,6 +14,14 @@ Based on https://code.visualstudio.com/docs/devcontainers/containers
 
 Jumping off point for `pyenv`: https://realpython.com/intro-to-pyenv/
 
+## Run the Sample Code
+
+In the `/workspaces/devcontainer-python` directory, run this command:
+
+```bash
+python3 sample/hello_world.py
+```
+
 ### miscellany
 
 `configit.sh` looks like this:
