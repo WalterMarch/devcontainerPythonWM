@@ -1,4 +1,4 @@
-# python-devcon - Visual Studio Code devcontainer for Python
+# devcontainer-python - Visual Studio Code devcontainer for Python
 
 ## Sample Dev Container file(s) for Python in VS Code Containerized Development
 
