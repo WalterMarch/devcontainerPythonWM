@@ -1,4 +1,4 @@
-# devcontainer-python - Visual Studio Code devcontainer for Python
+# devcontainerPythonWM - Visual Studio Code devcontainer for Python
 
 ## Sample Dev Container file(s) for Python in VS Code Containerized Development
 
@@ -16,10 +16,10 @@ Jumping off point for `pyenv`: https://realpython.com/intro-to-pyenv/
 
 ## Run the Sample Code
 
-In the `/workspaces/devcontainer-python` directory, run this command:
+In the `sample` directory, run this command:
 
 ```bash
-python3 sample/hello_world.py
+python3 hello_world.py
 ```
 
 ### miscellany
